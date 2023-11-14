@@ -13,11 +13,13 @@ This project aims to explore the portrayal of Arab characters in film, investiga
 - Implementation of a query to extract ethnicity data from the Freebase database.
 - Analysis of character names and ethnicities using a list of Arabic names from Wikipedia and other databases.
 - Assessment of the presence and roles of Arab characters in films, focusing on those released in the US and potentially in other Western countries.
+- *We will use publicly available IMDb datasets to populate our dataset with, for example, rating scores*
 
 ### Methods
 - Statistical analysis to compare the frequency and nature of roles assigned to Arab characters before and after 9/11.
 - Natural language processing (NLP) techniques for entity recognition to identify Arabic names and locations in film summaries.
 - Examination of variations in the spelling of names and their impact on the identification of Arab characters.
+- *Developping a weighting of datapoints with a "relevancy score" (ie a measure of a movie's relevancy) which will be comprised of ratings, box offcie, obtained prizes, etc...*
 
 ### Proposed Timetable and Objectives
 #### Week 1: In-depth Data Analysis
