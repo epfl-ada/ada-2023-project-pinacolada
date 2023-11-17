@@ -30,22 +30,24 @@ In our study we group the wester countries (USA, Canada and Eurpean states) vs t
 - *Developping a weighting of datapoints with a "relevancy score" (ie a measure of a movie's relevancy) which will be comprised of ratings, box offcie, obtained prizes, etc...*
 
 ### Proposed Timetable and Objectives
-#### Week 1: In-depth Data Analysis
+#### Week 1 (17.11-24.11): In-depth Data Analysis
 - Analyse in detail the data collected to identify specific trends in the representation of Arab characters.
 - Carry out a comparative analysis to distinguish changes before and after 11 September 2001.
 - Begin to write the relevant sections of the final report.
 
-#### Weeks 2-3: Development of Entity Recognition Techniques
+*Deadline Homework 2 01.12.2023*
+
+#### Weeks 3 (02.12-09.12): Development of Entity Recognition Techniques
 - Improve NLP techniques for more accurate identification of Arabic names and geographical references in scenarios.
 - Integrate the results of this improvement into the overall analysis.
 - Update the report with new findings and methodologies.
 
-#### Week 4: Critical Analysis and Review
+#### Week 4 (09.12-16.12): Critical Analysis and Review
 - Carry out a critical analysis of the results obtained.
 - Identify and discuss potential limitations and biases in the study.
 - Revise the report based on feedback from team members and course assistants.
 
-#### Week 5: Final Preparation and Submission
+#### Week 5 (17.12-22.12) : Final Preparation and Submission
 - Finalise the report by incorporating all comments and refining the presentation of the results.
 - Prepare a succinct presentation of the project for final submission.
 - Check that all README and notebook criteria are met before submission.
