@@ -53,7 +53,7 @@ In our study we group the western countries (USA, Canada and Eurpean states) vs 
 - Alexei : README, exploratory data analysis, relevancy score, IMDb dataset
 - Yahya : sentiment analysis, named entity recognition for arabic culture
 - Filippo : Data analysis pipeline,observational study of film genres
-- Matteo : Data analysis pipeline, website scraping
+- Matteo : Data analysis pipeline, searching for arabic names and IMDb databases, statistical analysis
 - Mohammad : README, exploratory data analysis
 
 ### Questions for Course Assistants (Optional)
