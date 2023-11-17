@@ -24,8 +24,8 @@ In our study we group the western countries (USA, Canada and Eurpean states) vs 
 - Observational study to evaluate if arab characters had more roles in crime and violence genres before and after 9/11. We group characters post-911 (treatment) and pre-911 (control) with a propensity score to reduce the effect of the many confounders present. 
 - Text filtering to evaluate the presence of arab characters in the character list and if the character is in the plot.
 - Natural language processing (NLP) techniques for entity recognition to identify Arabic names and locations in film summaries: specifically enhance our named entity recognition algorithm to be able to recognize not only arabic characters but also locations in the arabic world. This is going to be done either by using a distil bert model (light version of bert) and fine-tuning it on a manually labeled data (might not be feasible due to the lack of time) or by searching for an exhaustive database of arabic names and using it with a similarity function to get the arabic characters from the plot (since the spelling of arabic names/locations may differ especially when translated).
-- Sentiment analysis of the movie plots and the imdb movie reviews.
-- Topic Modeling:
+- Sentiment analysis of the movie plots and the IMDb movie reviews.
+- Topic modeling:
     * Use Latent Dirichlet Allocation (LDA) to uncover latent topics in the movie descriptions.
     * Compare the topics associated with Arabic names to those of other characters. 
 
@@ -55,9 +55,9 @@ In our study we group the western countries (USA, Canada and Eurpean states) vs 
 ### Organization withtin the team
 - Alexei : README, exploratory data analysis, relevancy score, IMDb dataset
 - Yahya : sentiment analysis, named entity recognition for arabic culture
-- Filippo : Data analysis pipeline,observational study of film genres
+- Filippo : Data analysis pipeline, observational study of film genres
 - Matteo : Data analysis pipeline, searching for arabic names and IMDb databases, statistical analysis
-- Mohammad : README, exploratory data analysis
+- Mohammad : README, exploratory data analysis, topic modeling
 
 ### Questions for Course Assistants (Optional)
 - Do you have any suggestions for improving our entity recognition approach for Arabic names?
