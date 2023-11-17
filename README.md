@@ -52,6 +52,13 @@ In our study we group the wester countries (USA, Canada and Eurpean states) vs t
 - Prepare a succinct presentation of the project for final submission.
 - Check that all README and notebook criteria are met before submission.
 
+### Organization withtin the team
+- Alexei
+- Yahya
+- Filippo
+- Matteo
+- Mohammad
+
 ### Questions for Course Assistants (Optional)
 - Do you have any suggestions for improving our entity recognition approach for Arabic names?
 - Recommendations for effectively comparing the representation of Arab characters before and after September 11?
