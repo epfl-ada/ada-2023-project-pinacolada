@@ -7,11 +7,11 @@ Being more specific, choosing between actor and character ethnicity, we want to 
 In our study we group the wester countries (USA, Canada and Eurpean states) vs the others, to undestrand if before and after the twin tower attack we notice a change dynamics in the cinema industry, that is influenced and influences the culture. In this sense, we want aslo to mesure how much films that depict arabs in a negative way have a cultural impact and may bring to a "domino effect", uning a "relevancy score".
 
 ### Research Questions
-- Do arab play more roles in the war and crimes genres in western movies after 9/11?
-- What are the common categories of 'positive' and 'negative' portrayal, and where do Arab characters typically fall within these categories?
-- How were Arab characters represented in films before and after 9/11?
-- Did 9/11 significantly alter the portrayal of Arab characters in films?
-- Did movies where arabs are negative depicted have a cultural impact on the society, using the relevancy score?
+1) Do arab characters relate more to war and crimes genres in western movies after 9/11?
+2) What are the common categories of 'positive' and 'negative' portrayal, and where do Arab characters typically fall within these categories?
+3) How were Arab characters represented in films before and after 9/11?
+4) Did 9/11 significantly alter the portrayal of Arab characters in films?
+5) *Can movies where arabs are negatively depicted have a cultural impact on subsequent similar movies, using a measure of relevance?*
   
 ### Proposed Additional Datasets and their Management
 - Web scrapring of actors ethnicities using the wikidata API.
@@ -21,7 +21,7 @@ In our study we group the wester countries (USA, Canada and Eurpean states) vs t
 ### Methods
 - Assessment of the presence and roles of Arab characters in films, focusing on those released in the US and other Western countries.
 - Statistical analysis to compare the frequency and nature of roles assigned to Arab characters before and after 9/11.
-- - Observational study to evaluate if arabs characters had more roles in crime and violence genres before and after 9/11.
+- Observational study to evaluate if arabs characters had more roles in crime and violence genres before and after 9/11.
 - Text filtering to evaluate the presence of arab characters in the character list and if the character is in the plot.
 - Natural language processing (NLP) techniques for entity recognition to identify Arabic names and locations in film summaries: specifically enhance our named entity recognition algorithm to be able to recognize not only arabic characters but also locations in the arabic world. This is going to be done either by using a distil bert model (light version of bert) and fine-tuning it on a manually labeled data (might not be feasible due to the lack of time) or by searching for an exhaustive database of arabic names and using it with a similarity function to get the arabic characters from the plot (since the spelling of arabic names/locations may differ especially when translated).
 - Sentiment analysis of the movie plots and the imdb movie reviews.
