@@ -18,16 +18,15 @@ In our study we group the wester countries (USA, Canada and Eurpean states) vs t
 ### Proposed Additional Datasets and their Management
 - Web scrapring of actors ethnicities using the wikidata API.
 - Analysis of character names and ethnicities using a list of Arabic names from Wikipedia and other databases.
-- *We will use publicly available IMDb datasets to populate our dataset with, for example, rating scores*
-- Imdb reviews dataset for sentiment analysis: we are going to use this dataset to train a pretrained model for sentiment analysis of the plots to see how are the arabic characters represented in comparison to a selection of other ethinities. In addition, this dataset is also going to be used to asses the cultural impact on the society since the reviews are not made by official critics of the movie industry but by common people.
+- We will use publicly available IMDb datasets to populate our dataset with, for example, ratings. Additionally, the Imdb reviews dataset will be used for sentiment analysis: we will train a pretrained model for sentiment analysis of the plots to see how are the arabic characters represented in comparison to a selection of other ethinities. In addition, this dataset is also going to be used to assess the cultural impact on the society since the reviews are not made by official critics of the movie industry but by the public. Ratings may be used as training labels. 
 
 ### Methods
 - Statistical analysis to compare the frequency and nature of roles assigned to Arab characters before and after 9/11.
 - Text filtering to evaluate the presence of arab characters in the character list and if the character is in the plot.
-- Observational study to evaluate if arabs characters had more roles in crime and violence genres before and after the twin towers event.
-- Natural language processing (NLP) techniques for entity recognition to identify Arabic names and locations in film summaries: specifically enhance our named entity recognition algorithm to be able to recognize not only arabic characters but also locations in the arabic world. This is going to be done either by using a distil bert model (light version of bert) and fine-tuning it on a manually labeled data (might not be feasible due to the lack of time)or by searching for an exhaustive database of arabic names and using it with a similarity function to get the arabic characters from the plot (since the spelling of arabic names/locations may differ especially when translated).
+- Observational study to evaluate if arabs characters had more roles in crime and violence genres before and after 9/11.
+- Natural language processing (NLP) techniques for entity recognition to identify Arabic names and locations in film summaries: specifically enhance our named entity recognition algorithm to be able to recognize not only arabic characters but also locations in the arabic world. This is going to be done either by using a distil bert model (light version of bert) and fine-tuning it on a manually labeled data (might not be feasible due to the lack of time) or by searching for an exhaustive database of arabic names and using it with a similarity function to get the arabic characters from the plot (since the spelling of arabic names/locations may differ especially when translated).
 - Sentiment analysis of the movie plots and the imdb movie reviews.
-- *Developping a weighting of datapoints with a "relevancy score" (ie a measure of a movie's relevancy) which will be comprised of ratings, box offcie, obtained prizes, etc...*
+
 
 ### Proposed Timetable and Objectives
 #### Week 1 (17.11-24.11): In-depth Data Analysis
