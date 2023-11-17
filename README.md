@@ -4,7 +4,7 @@
 ### Summary
 This project aims to explore the portrayal of characters of Arabic ethnicity in movies, investigating possible changes in their roles before and after the terrorist attacks on the World Trade Center of 11 September 2001. Our intention is to analyse how these characters have been depicted and to categorise these representations as 'positive' or 'negative'. 
 Being more specific, choosing between actor and character ethnicity, we want to extract the second, being it more directly linked to the fictional role. While at the moment it is done filtering the character names if they are of arab origin, we may include the ones not explicitly mentioned in the script, in order to understand the underlying dynamics of representation in film. 
-In our study we group the western countries (USA, Canada and Eurpean states) vs the others, to understand if before and after the twin tower attacks we notice a change in the dynamics of the cinema industry, that is influenced by and influences the culture. In this sense, we also want to measure how much films that depict arabs in a negative way have a cultural impact.
+In our study we group the western countries (USA, Canada and Eurpean states) vs the others, to understand if before and after the twin tower attacks we notice a change in the dynamics of the cinema industry, that is influenced by and influences the culture. In this sense, we also want to measure how much films that depict arabs in a negative way have had an impact on culture.
 
 ### Research Questions
 1) Do arab characters relate more to war and crimes genres in western movies after 9/11?
