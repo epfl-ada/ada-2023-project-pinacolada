@@ -44,4 +44,13 @@ This [link](https://alexei-erm.github.io) will take you to our datastory.
 - Finalise the report by incorporating all comments and refining the presentation of the results.
 - Prepare a succinct presentation of the project for final submission.
 - Check that all README and notebook criteria are met before submission.
+ 
+#### Individual Contributions
+- Alexei : Exploratory analysis, datastory, website
+- Filippo : Observational study
+- Matteo : Recognition of Arab names and validation, sentiment analysis, datastory
+- Mohammad : Sentiment analysis, CSS, Double Check DS
+- Yahya : Data cleaning, Named entity recognition, Topic Modeling, Plot summaries analysis
+
+
 
