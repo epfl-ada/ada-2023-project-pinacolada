@@ -16,6 +16,7 @@ This [link](https://alexei-erm.github.io) will take you to our datastory.
 ### Proposed Additional Datasets and their Management
 - Analysis of character names and ethnicities using a list of Arabic names from Wikipedia and other databases.
 - Imdb reviews dataset for sentiment analysis: we are going to use this dataset to train a pretrained model for sentiment analysis of the plots to see how are the arabic characters represented in comparison to a selection of other ethinities. In addition, this dataset is also going to be used to asses the cultural impact on the society since the reviews are not made by official critics of the movie industry but by common people.
+- All additional datasets used in the P3 notebook are in the GitHub repository, in the Added_df folder. IMDb reiews dataset is not present in the folder, as it is chosen not to be used it for the main Milestone 3 purposes.
 
 ### Methods
 - Statistical analysis to compare the frequency and nature of roles assigned to Arab characters before and after 9/11.
