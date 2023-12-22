@@ -46,10 +46,10 @@ This [link](https://alexei-erm.github.io) will take you to our datastory.
 - Check that all README and notebook criteria are met before submission.
  
 #### Individual Contributions
-- Alexei : exploratory analysis, datastory, website
-- Filippo :
-- Matteo :
-- Mohammad : Sentiment analysis, CSS, Double Check DS.
+- Alexei : Exploratory analysis, datastory, website
+- Filippo : Observational study
+- Matteo : Recognition of Arab names and validation, sentiment analysis, datastory
+- Mohammad : Sentiment analysis, CSS, Double Check DS
 - Yahya : Data cleaning, Named entity recognition, Topic Modeling, Plot summaries analysis
 
 
