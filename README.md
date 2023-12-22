@@ -3,7 +3,7 @@
 ### Summary
 This project aims to explore the portrayal of Arab characters in film, investigating possible changes in their roles before and after the events of 11 September 2001. Our intention is to analyse how these characters have been depicted and to categorise these representations as 'positive' or 'negative'. 
 Being more specific, choosing between actor and character ethnicity, we want to extract the second, being it more directly linked to the fictional role. While at the moment it is done filtering the character names if they are of arab origin, we may include the ones not explicitly mentioned in the script, in order to understand the underlying dynamics of representation in film. 
-In our study we group the western countries (USA, Canada and Eurpean states) vs the others, to understand if before and after the twin tower attack we notice a change of dynamics in the cinema industry, that influences and influenced by culture.
+In our study we group the western countries (USA, Canada and European states) vs the others, to understand if before and after the twin tower attack we notice a change of dynamics in the cinema industry, that influences and influenced by culture.
 
 This [link](https://alexei-erm.github.io) will take you to our datastory.
 
