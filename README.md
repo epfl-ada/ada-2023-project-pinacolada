@@ -45,6 +45,3 @@ This [link](https://alexei-erm.github.io) will take you to our datastory.
 - Prepare a succinct presentation of the project for final submission.
 - Check that all README and notebook criteria are met before submission.
 
-### Questions for Course Assistants (Optional)
-- Do you have any suggestions for improving our entity recognition approach for Arabic names?
-- Recommendations for effectively comparing the representation of Arab characters before and after September 11?
