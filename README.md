@@ -49,7 +49,7 @@ This [link](https://alexei-erm.github.io) will take you to our datastory.
 - Alexei : exploratory analysis, datastory, website
 - Filippo :
 - Matteo :
-- Mohammad : Sentiment analysis, set up & understand the CSS, final conclusion, double check the entire data story,
+- Mohammad : Sentiment analysis, CSS, Double Check DS.
 - Yahya : Data cleaning, Named entity recognition, Topic Modeling, Plot summaries analysis
 
 
