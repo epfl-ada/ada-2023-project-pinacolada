@@ -47,7 +47,7 @@ This [link](https://alexei-erm.github.io) will take you to our datastory.
  
 #### Individual Contributions
 - Alexei : Exploratory analysis, datastory, website
-- Filippo : Observational study
+- Filippo : War and crime Arab participation observational study, analysis on Western countries
 - Matteo : Recognition of Arab names and validation, sentiment analysis, datastory
 - Mohammad : Sentiment analysis, CSS, Double Check DS
 - Yahya : Data cleaning, Named entity recognition, Topic Modeling, Plot summaries analysis
