@@ -46,7 +46,7 @@ This [link](https://alexei-erm.github.io) will take you to our datastory.
 - Check that all README and notebook criteria are met before submission.
  
 #### Individual Contributions
-- Alexei :
+- Alexei : exploratory analysis, datastory, website
 - Filippo :
 - Matteo :
 - Mohammad :
